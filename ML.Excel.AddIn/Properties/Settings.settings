@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ML.Excel.AddIn.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RServePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">..\R\win-library\3.1\Rserve\libs\x64\Rserve.exe</Value>
+    </Setting>
+    <Setting Name="RPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\R\R-3.1.1\bin\x64\</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
